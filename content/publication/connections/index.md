@@ -2,7 +2,7 @@
 title = "The Connections of Party Brokers"
 
 # Date first published.
-date = "2020-06-01"
+date = "2020-04-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan"]
