@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sarah Brierley
+name: Sarah A. Brierley
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
+- name: London School of Economics and Political Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,6 +24,7 @@ interests:
 - Bureaucracy 
 - Corruption
 - Party organization
+- Elections
 
 education:
   courses:
@@ -70,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Sarah Brierley is an Assistant Professor of Political Science at the London School of Economics and Political Science. 
+I am an Assistant Professor of Political Science at the London School of Economics and Political Science. 
 
 I work in the field of comparative politics, with a regional focus on Sub-Saharan Africa.  My research investigates state development, political corruption and party politics in new democracies. In my book project, I ask why bureaucrats engage in corruption on behalf of politicians. I argue that public servants do so when politicians retain discretionary control over their careers. Methodologically, I combine data from surveys and experiments, with analysis of administrative data, and qualitative information from in-depth interviews. 
 
@@ -78,4 +79,3 @@ In other ongoing projects, I investigate the work and payment of party brokers, 
 
 My research has been funded by the National Science Foundation, the UK’s Department for International Development, the Adam Smith Institute, and the International Growth Center among others. It has been published or is forthcoming in the Journal of Politics, American Journal of Political Science, British Journal of Political Studies, Electoral Studies and the Journal of Contemporary African Studies. 
  
-I received my Ph.D. in Political Science from UCLA. Previously, I earned an MSc (African Studies) and BA (Philosophy, Politics and Economics), both from the University of Oxford.
