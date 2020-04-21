@@ -32,8 +32,8 @@ of the standard model do not hold: brokers know surprisingly few voters, brokers
 downward connections are not the most active or effective, and parties do not select the brokers
 who know the most voters. Instead, brokers with the most upward connections to local elites
 appear to be the most valuable to parties. We build inductively from these results to develop
-an alternative theory of brokers, proposing that many parties value “problem solvers” over
-“monitors.”"
+an alternative theory of brokers, proposing that many parties value problem solvers over
+monitors."
 
 # abstract_short = "Using data from an original survey of bureaucrats in local governments in Ghana, I show that bureaucrats are more likely to facilitate corruption when they perceive politicians are empowered with higher levels "
 
