@@ -2,7 +2,7 @@
 title = "Combining Patronage and Merit in Public Sector Recruitment"
 
 # Date first published.
-date = "2020-08-01"
+date = "2020-04-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley"]
