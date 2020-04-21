@@ -19,18 +19,19 @@ authors = ["Sarah Brierley"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *American Journal of Political Science"
+publication = "In *American Journal of Political Science*"
 publication_short = "In *AJPS*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract"
-abstract_short = "A short version of the abstract."
+abstract = "In theory, granting politicians tools to oversee bureaucrats can reduce administrative malfeasance. In contrast, I argue that the political control of bureaucrats can increase corruption when politicians need money to fund electioncampaigns and face limited institutional constraints. In such contexts, politicians can leverage their discretionary powers to incentivize bureaucrats to extract rents from the state on politicians’ behalf. Using data from an original survey of bureaucrats (N = 864) across 80 randomly sampled local governments in Ghana, I show that bureaucrats are more likely to facilitate politicians’ corrupt behavior when politicians are perceived to be empowered with higher levels of discretionary control. Using qualitative data and a list experiment to demonstrate the mechanism, I show that politicians enact corruption by threatening to transfer noncompliant officers. My findings provide new evidence on the sources of public administrative deficiencies in developing countries and qualify the presumption that greater political oversight improves governance."
+
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 # image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
