@@ -2,7 +2,7 @@
 title = "Combining Patronage and Merit in Public Sector Recruitment"
 
 # Date first published.
-date = "2021-01-01"
+date = "2020-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley"]
@@ -24,17 +24,7 @@ publication_short = "*Journal of Politics*"
 
 # Abstract and optional shortened version.
 
-abstract = "When do politicians in developing democracies prioritize meritocratic recruitment over patronage
-hiring for public sector jobs? I distinguish between menial and professional positions
-and argue that the former are valuable for sustaining party machines, while manipulating the
-latter can undermine state performance. Accordingly, politicians will interfere to ensure their
-co-partisans are hired to menial positions but select professional bureaucrats based on meritocratic
-criteria. I test my argument using novel bureaucrat-level data from Ghana (n = 17,942)
-and leverage a change in the governing party to investigate hiring patterns. The results suggest
-that partisan bias is confined to menial jobs. The findings shed light on the mixed effects
-of electoral competition on patronage identified in prior studies: competition may dissuade
-politicians from interfering in recruitment to high-ranked positions, but encourage them to
-hire partisans for low-ranked positions."
+abstract = "When do politicians in developing democracies prioritize meritocratic recruitment over patronage hiring for public sector jobs? I distinguish between menial and professional positions and argue that the former are valuable for sustaining party machines, while manipulating the latter can undermine state performance. Accordingly, politicians will interfere to ensure their co-partisans are hired to menial positions but select professional bureaucrats based on meritocratic criteria. I test my argument using novel bureaucrat-level data from Ghana (n = 17,942) and leverage a change in the governing party to investigate hiring patterns. The results suggest that partisan bias is confined to menial jobs. The findings shed light on the mixed effects of electoral competition on patronage identified in prior studies: competition may dissuade politicians from interfering in recruitment to high-ranked positions, but encourage them to hire partisans for low-ranked positions."
 
 # abstract_short = ""
 # Featured image thumbnail (optional)
