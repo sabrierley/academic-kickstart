@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*British Journal of Political Science*"
-publication_short = "*British Journal of Political Science*"
+publication_short = "*British Journal of Political Science* 49(1):129-151"
 
 # Abstract and optional shortened version.
 abstract = "This article reports on the effects of domestic election observers on electoral fraud and violence. Using an experimental research design and polling station data on fraud and violence during Ghana’s 2012 elections, it shows that observers reduced fraud and violence at the polling stations which they monitored. It is argued that local electoral competition shapes party activists’ response to observers. As expected, in single-party dominant areas, parties used their local political networks to relocate fraud to polling stations without an election observer, and, in contrast, party activists relocated violence to stations without observers in competitive areas – a response that requires less local organizational capacity. This highlights how local party organization and electoral incentives can shape the manipulative electoral strategies employed by parties in democratic elections."
