@@ -1,5 +1,5 @@
 +++
-title = "Party Campaign Strategies: Rallies, Canvassing and Handouts in Ghana"
+title = "Party Campaign Strategies: Rallies, Canvassing and Handouts in Ghana (conditionally accepted at African Affairs)"
 subtitle = "Conditionally accepted at African Affairs" 
 
 # Date first published.
