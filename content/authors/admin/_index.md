@@ -77,5 +77,5 @@ I work in the field of comparative politics, with a regional focus on Sub-Sahara
 
 In other ongoing projects, I investigate the work and payment of party brokers, the effect of political debates on voters’ evaluations of politicians, and public attitudes towards petty corruption. 
 
-My research has been funded by the National Science Foundation, the UK’s Department for International Development, the Adam Smith Institute, and the International Growth Center among others. It has been published or is forthcoming in the Journal of Politics, American Journal of Political Science, British Journal of Political Studies, Electoral Studies and the Journal of Contemporary African Studies. 
+My research has been funded by the National Science Foundation, the UK’s Department for International Development, the Adam Smith Institute, and the International Growth Center among others. It has been published or is forthcoming in the _Journal of Politics_, _American Journal of Political Science_, _British Journal of Political Studies_, _Electoral Studies_ and the _Journal of Contemporary African Studies_. 
  
