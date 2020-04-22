@@ -5,7 +5,7 @@ title = "The presidential and parliamentary elections in Ghana, December 2012"
 date = "2014-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sarah Brierley", "George Ofosu"]
+authors = ["Sarah Brierley", "George Kwaku Ofosu"]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Electoral Studies*"
-publication_short = "*Electoral Studies*"
+publication_short = "*Electoral Studies* 35:382-385"
 
 # Abstract and optional shortened version.
 # abstract = ""
