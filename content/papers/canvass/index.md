@@ -1,5 +1,6 @@
 +++
 title = "Party Campaign Strategies: Rallies, Canvassing and Handouts in Ghana"
+subtitle = "Conditionally accepted at African Affairs" 
 
 # Date first published.
 date = "2020-04-21"
