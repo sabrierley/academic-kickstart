@@ -1,5 +1,5 @@
 +++
-title = "Payments to Party Brokers"
+title = "Paying Party Brokers: How Patronage Sustains Machine Parties"
 
 # Date first published.
 date = "2020-04-01"
