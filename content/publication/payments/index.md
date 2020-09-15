@@ -19,11 +19,11 @@ authors = ["Sarah Brierley", "Noah Nathan"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
+publication = "Under review"
 publication_short = "Working paper"
 
 # Abstract and optional shortened version.
-abstract = "How clientelist parties pay their brokers has important implications for party system institutionalization and the distribution of state resources. But existing literature is yet to systematically analyze brokers’ compensation. Using a panel survey of over 1,000 brokers in Ghana’s ruling party, we track their compensation across a full electoral cycle. We show that the party operates a hybrid payment system missed by existing studies focused narrowly on the electoral period. In the immediate post-election period party leaders use disaggregated election results to reward the best performing brokers. But after this period, when the bulk of payments are made, the party instead rewards brokers based on their social connections to elites in the party hierarchy. Such a structure allows the party to balance the dual needs of agent competence and loyalty."
+abstract = "Parties rely on brokers to win elections in much of the developing world. How do parties use compensation to extract work from brokers? We argue that beyond rewarding brokers who deliver the most voters, parties also reward brokers who are most embedded in the party. This allows party leaders to balance the dual aims of promoting agent competence and loyalty. Using a multi-wave survey, we track the full range of payments to over 1,000 brokers from Ghana’s ruling party – the party most capable of distributing prized patronage benefits – across an entire electoral cycle. We show that the party operates a hybrid payment system missed by previous studies of broker compensation focused narrowly on electoral periods. The party rewards the best performing brokers immediately after elections. But long after campaigns, when most payments are actually made, the party instead rewards brokers for their social connections to party elites."
 
 # abstract_short = "Using data from an original survey of bureaucrats in local governments in Ghana, I show that bureaucrats are more likely to facilitate corruption when they perceive politicians are empowered with higher levels "
 
