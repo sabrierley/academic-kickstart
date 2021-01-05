@@ -3,7 +3,7 @@ title = "Party Campaign Strategies in Ghana: Rallies, Canvassing and Handouts"
 subtitle = "African Affairs" 
 
 # Date first published.
-date = "2020-11-10"
+date = "2020-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Eric Kramon"]
@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*African Affairs*"
-publication_short = "*African Affairs*"
+publication_short = "*African Affairs* 119(477):587-603"
 
 # Abstract and optional shortened version.
  abstract = "Political parties use different methods – such as holding rallies, door-to-door canvassing, and distributing gifts – to mobilize voters during election campaigns across Africa. But how do parties choose which approach to use in each constituency? We propose that parties prefer to hold rallies in core constituencies, and to use targeted strategies – canvassing and handouts – in swing and opposition districts. However, opposition parties may not have sufficient resources to pursue such a strategy. Ruling parties have the dual advantage of being in a strong financial position, and having the ability to target core voters with state benefits between elections. Using post-election survey data from Ghana’s 2012 election, we show that the ruling party canvassed the most in districts where they were electorally weak, and concentrated rallies in their home constituencies. In contrast, the opposition party focused all of its efforts in its home districts. Our results highlight how incumbency status shapes parties’ campaign behavior. They also suggest that ruling parties can combine core and swing voter targeting in different stages of the electoral cycle."
