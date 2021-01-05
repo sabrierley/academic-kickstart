@@ -19,8 +19,8 @@ authors = ["Sarah Brierley", "Noah Nathan"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
-publication_short = "_Under review_"
+publication = "Revise and Resubmit at Journal of Politics"
+publication_short = "_Revise and Resubmit at Journal of Politics_"
 
 # Abstract and optional shortened version.
 abstract = "Parties rely on brokers to win elections in much of the developing world. How do parties use compensation to extract work from brokers? We argue that beyond rewarding brokers who deliver the most voters, parties also reward brokers who are most embedded in the party. This allows party leaders to balance the dual aims of promoting agent competence and loyalty. Using a multi-wave survey, we track the full range of payments to over 1,000 brokers from Ghana’s ruling party – the party most capable of distributing prized patronage benefits – across an entire electoral cycle. We show that the party operates a hybrid payment system missed by previous studies of broker compensation focused narrowly on electoral periods. The party rewards the best performing brokers immediately after elections. But long after campaigns, when most payments are actually made, the party instead rewards brokers for their social connections to party elites."
