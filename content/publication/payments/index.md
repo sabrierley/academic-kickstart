@@ -50,7 +50,7 @@ selected = false
 # projects = []
 
 # Links (optional).
-# url_pdf = "pdf/BrierleyNathan_2020_payments.pdf"
+# url_pdf = "pdf/BrierleyNathan_payments_Jan2021.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
