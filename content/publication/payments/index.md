@@ -1,5 +1,5 @@
 +++
-title = "Paying Party Brokers: How Patronage Sustains Machine Parties"
+title = "Motivating the Machine: Which Brokers Do Parties Pay?"
 
 # Date first published.
 date = "2020-04-01"
@@ -23,7 +23,17 @@ publication = "Revise and Resubmit at Journal of Politics"
 publication_short = "_Revise and Resubmit at Journal of Politics_"
 
 # Abstract and optional shortened version.
-abstract = "Parties rely on brokers to win elections in much of the developing world. How do parties use compensation to extract work from brokers? We argue that beyond rewarding brokers who deliver the most voters, parties also reward brokers who are most embedded in the party. This allows party leaders to balance the dual aims of promoting agent competence and loyalty. Using a multi-wave survey, we track the full range of payments to over 1,000 brokers from Ghana’s ruling party – the party most capable of distributing prized patronage benefits – across an entire electoral cycle. We show that the party operates a hybrid payment system missed by previous studies of broker compensation focused narrowly on electoral periods. The party rewards the best performing brokers immediately after elections. But long after campaigns, when most payments are actually made, the party instead rewards brokers for their social connections to party elites."
+abstract = "Parties rely on brokers to win elections in much of the developing world. How do parties use
+compensation to motivate these grassroots agents? Parties often decentralize broker payment
+decisions to local party elites. In addition to helping their party win elections, local elites
+seek personal career advancement. Because local elites typically rely on brokers’ support to
+advance, they have an incentive to use payments to strengthen their ties to brokers. Using a
+multi-wave survey, we track the full range of payments to over 1,000 brokers from Ghana’s
+ruling party – the party most capable of distributing patronage benefits – across an electoral
+cycle. We show that the party operates a hybrid payment system missed by previous studies.
+The party rewards the brokers who deliver the most votes immediately after elections. But
+long after campaigns, when most payments are made, local party elites prioritize payments to
+brokers with upward connections to elites."
 
 # abstract_short = "Using data from an original survey of bureaucrats in local governments in Ghana, I show that bureaucrats are more likely to facilitate corruption when they perceive politicians are empowered with higher levels "
 
