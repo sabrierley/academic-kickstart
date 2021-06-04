@@ -16,11 +16,11 @@ authors = ["Sarah Brierley", "Noah Nathan"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and Resubmit at Journal of Politics"
-publication_short = "_Revise and Resubmit at Journal of Politics_"
+publication = "Conditionally accepted at Journal of Politics"
+publication_short = "_Conditionally accepted at Journal of Politics_"
 
 # Abstract and optional shortened version.
 abstract = "Parties rely on brokers to win elections in much of the developing world. How do parties use compensation to motivate these grassroots agents? Parties often decentralize broker payment decisions to local party elites. In addition to helping their party win elections, local elites seek personal career advancement. Because local elites typically rely on brokers’ support to advance, they have an incentive to use payments to strengthen their ties to brokers. Using a multi-wave survey, we track the full range of payments to over 1,000 brokers from Ghana’s ruling party – the party most capable of distributing patronage benefits – across an electoral cycle. We show that the party operates a hybrid payment system missed by previous studies. The party rewards the brokers who deliver the most votes immediately after elections. But long after campaigns, when most payments are made, local party elites prioritize payments to brokers with upward connections to elites."
