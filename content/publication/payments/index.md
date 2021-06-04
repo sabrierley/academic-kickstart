@@ -2,7 +2,7 @@
 title = "Motivating the Machine: Which Brokers Do Parties Pay?"
 
 # Date first published.
-date = "2020-04-01"
+date = "2021-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan"]
