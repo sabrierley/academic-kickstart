@@ -1,5 +1,5 @@
 +++
-title = "The Connections of Party Brokers"
+title = "The Connections of Party Brokers: Which Brokers do Parties Select?"
 
 # Date first published.
 date = "2021-01-03"
