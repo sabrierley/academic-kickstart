@@ -2,7 +2,7 @@
 title = "Do Chiefs' Endorsements Affect Voter Behavior?"
 
 # Date first published.
-date = "2020-01-20"
+date = "2021-08-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "George Kwaku Ofosu"]
