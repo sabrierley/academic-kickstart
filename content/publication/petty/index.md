@@ -1,5 +1,5 @@
 +++
-title = "Female Bureaucrats and Petty Corruption"
+title = "Are Female Bureaucrats Less Likely to Solicit Bribes?"
 
 # Date first published.
 date = "2019-01-01"
@@ -20,7 +20,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Working paper"
-publication_short = "Working paper"
+publication_short = "Under review"
 
 # Abstract and optional shortened version.
 abstract = ""
