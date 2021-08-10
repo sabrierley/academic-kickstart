@@ -23,7 +23,7 @@ publication = "Working paper"
 publication_short = "Under review"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Greater female presence in public institutions is correlated with lower levels of corruption. We conduct two survey experiments in Ghana to investigate whether end-users perceive women bureaucrats as less likely to solicit bribes than men. Our results show that respondents do not expect women bureaucrats to be less corrupt than men. Further, this result holds across bureaucrats with different levels of experience in the public sector. We use results from our second experiment to argue that bribe-taking rates are similar across genders because of equal financial pressures men and women face to contribute to their extended families. Our results cast doubt on the idea that women bureaucrats are an effective antidote to petty corruption."
 
 # abstract_short = ""
 
