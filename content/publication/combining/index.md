@@ -19,8 +19,8 @@ authors = ["Sarah Brierley"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Politics 83.1 (2021): 182-197.*"
-publication_short = "*Journal of Politics 83.1 (2021): 182-197.*"
+publication = "*Journal of Politics 83.1 (2021): 182-197*"
+publication_short = "*Journal of Politics 83.1 (2021): 182-197*"
 
 # Abstract and optional shortened version.
 abstract = "When do politicians in developing democracies prioritize meritocratic recruitment over patronage hiring for public sector jobs? I distinguish between menial and professional positions and argue that the former are valuable for sustaining party machines, while manipulating the latter can undermine state performance. Accordingly, politicians will interfere to ensure their co-partisans are hired to menial positions but select professional bureaucrats based on meritocratic criteria. I test my argument using novel bureaucrat-level data from Ghana and leverage a change in the governing party to investigate hiring patterns. The results suggest that partisan bias is confined to menial jobs. The findings shed light on the mixed effects of electoral competition on patronage identified in prior studies: competition may dissuade politicians from interfering in recruitment to high-ranked positions, but encourage them to hire partisans for low-ranked positions."
