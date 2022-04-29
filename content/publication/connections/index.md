@@ -19,8 +19,8 @@ authors = ["Sarah Brierley", "Noah Nathan"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Politics*"
-publication_short = "*Journal of Politics*"
+publication = "*Journal of Politics 83(3): 884-901.*"
+publication_short = "*Journal of Politics 83(3): 884-901.*"
 
 # Abstract and optional shortened version.
 abstract = "Seminal models of clientelism assert that parties value brokers for their strong downward ties to voters. Despite its dominance, scholars have not empirically scrutinized key assumptions of this theory due to the challenges of measuring brokers’ network connections. We analyze unique data from three sources: Ghana’s voter register, a handmade catalogue of local elites, and a large-scale survey of aspiring party brokers. We show that the observable implications of the standard model do not hold: brokers know surprisingly few voters, brokers with more downward connections are not the most active or effective, and parties do not select the brokers who know the most voters. Instead, brokers with the most upward connections to local elites appear to be the most valuable to parties. We build inductively from these results to develop an alternative theory of brokers, proposing that many parties value problem solvers over monitors."
