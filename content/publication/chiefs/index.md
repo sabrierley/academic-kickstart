@@ -2,7 +2,7 @@
 title = "Chiefs’ Endorsements and Voter Behavior"
 
 # Date first published.
-date = "2021-08-10"
+date = "2022-07-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "George Kwaku Ofosu"]
