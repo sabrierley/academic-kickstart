@@ -1,5 +1,5 @@
 +++
-title = "Are Female Bureaucrats Less Likely to Solicit Bribes?"
+title = "Gender, Corruption, and Bureaucracy: Experimental Evidence from Ghana"
 
 # Date first published.
 date = "2021-01-01"
@@ -23,7 +23,7 @@ publication = "Working paper"
 publication_short = "Under review"
 
 # Abstract and optional shortened version.
-abstract = "Greater female presence in public institutions is correlated with lower levels of corruption. We conduct two survey experiments in Ghana to investigate whether end-users perceive women bureaucrats as less likely to solicit bribes than men. Our results show that respondents do not expect women bureaucrats to be less corrupt than men. Further, this result holds across bureaucrats with different levels of experience in the public sector. We use results from our second experiment to argue that bribe-taking rates are similar across genders because of equal financial pressures men and women face to contribute to their extended families. Our results cast doubt on the idea that women bureaucrats are an effective antidote to petty corruption."
+abstract = "More women in public institutions is correlated with lower levels of corruption. However, this relationship is thought to be context specific. Furthermore, the mechanism that leads to reduced corruption remains unclear. We conduct two survey experiments to investigate whether and why end-users expect women bureaucrats to be less corrupt in Ghana. Our results show that citizens do not expectwomen bureaucrats to be less likely to solicit bribes than men. This result holds across bureaucrats with different levels of experience in the public sector and respondents who have and have not paid a bribe. Our second experiment shows that men and women bureaucrats face equal pressure to share their salaries with their extended families. We argue that equality in financial pressures explains why bribe-taking rates may be similar across genders. Our results cast doubt on the idea that women bureaucrats will reduce petty corruption in countries where corruption is pervasive."
 
 # abstract_short = ""
 
