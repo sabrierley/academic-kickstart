@@ -18,8 +18,7 @@ weight = 40
 **London School of Economics and Political Science**
 
 Undergraduate:
-- GV327: [Governance and Corruption](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV327.htm)
-- GV335: [African Political Economy](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2019_GV335.htm)
+- GV327: [Governance and Corruption](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV327.htm)
 
 Graduate
 - GV467: Introduction to Comparative Politics
