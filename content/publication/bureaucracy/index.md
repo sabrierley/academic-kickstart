@@ -5,7 +5,7 @@ title = "Bureaucratic Politics: Blind Spots and Opportunities in Political Scien
 date = "2022-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sarah Brierley", "Kenny Lowande", "Rachel Augustine Potter","Guillermo Toral"]
+authors = ["Sarah Brierley", "Kenny Lowande", "Rachel Augustine Potter", "Guillermo Toral"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Sarah Brierley", "Kenny Lowande", "Rachel Augustine Potter","Guiller
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Prepared for the *Annual Review of Political Science*"
-publication_short = "Prepared for the *Annual Review of Political Science"
+publication_short = "Prepared for the *Annual Review of Political Science*"
 
 # Abstract and optional shortened version.
 abstract = "Bureaucracy is everywhere. Unelected bureaucrats are a key link between government and citizens, between policy and implementation. The profession has taken notice. Bureaucratic politics constitutes a growing share of research in political science. But the way bureaucracy is studied varies widely, opening theoretical and empirical blind spots, as well as opportunities for innovation. Scholars of American politics tend to focus on bureaucratic policymaking at the national level, while Comparativists often home in on local implementation by street-level bureaucrats. Data availability and professional incentives have reinforced these subfield-specic blind spots over time. We highlight these divides in three prominent research areas: the selection and retention of bureaucratic personnel, oversight of bureaucratic activities, and opportunities for influence by actors external to the bureaucracy. Our survey reveals ways scholars from both the American and Comparative traditions can learn from one another.
