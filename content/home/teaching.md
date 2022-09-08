@@ -19,6 +19,9 @@ weight = 40
 
 Undergraduate:
 - GV327: [Governance and Corruption](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV327.htm)
+- GV342L [Philosophy, Politics and Economics: Research Project]
+- GV248: [Power and Politics in the Modern World: Comparative Perspectives] (https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV248.htm)
+
 
 Graduate
 - GV467: Introduction to Comparative Politics
