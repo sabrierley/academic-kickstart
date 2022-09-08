@@ -1,5 +1,5 @@
 +++
-title = "Do Chiefs' Endorsements Affect Voter Behavior?"
+title = "Chiefs’ Endorsements and Voter Behavior"
 
 # Date first published.
 date = "2021-08-10"
@@ -19,11 +19,11 @@ authors = ["Sarah Brierley", "George Kwaku Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
-publication_short = "Working paper"
+publication = "Under review"
+publication_short = "Under review"
 
 # Abstract and optional shortened version.
-abstract = "We study whether and why traditional leaders can influence voter behavior using real endorsement messages made by chiefs in support of the incumbent presidential candidate during Ghana’s 2020 presidential elections. Using an experimental design, we document a positive impact of endorsement messages on vote choice, but not on turnout. We find that the effect of chiefs’ endorsements is driven by their influence on unaligned and opposition voters. We also find evidence that voters’ prior beliefs about the traditional leader’s performance in their duties shape chiefly influence. Our analysis of causal mechanisms indicates the effect of chiefly endorsement among unaligned and opposition voters runs primarily through lending credibility to the candidate’s promise to build local public infrastructure rather than their national policies. Our results imply that traditional elites can shape political outcomes, which has important implications for democratic accountability."
+abstract = "Traditional leaders can influence electoral outcomes. We designed an experiment to investigate why public endorsements by chiefs affect voters – and which types of voters they influence. Chiefs have incentives to prefer politicians who will promote local development, and can use endorsements to sway elections accordingly. We argue that voters often interpret chiefs’ endorsements as a signal of candidate quality. To assess this argument, we exposed voters to real endorsements made by chiefs during Ghana’s 2020 presidential election. We show that endorsements impact the vote choice of undecided voters. Consistent with a signaling mechanism, respondents exposed to chiefs’ rationale for endorsing a candidate were no more likely to vote for the endorsed candidate than those who only heard chiefs’ voting instructions. Further, treated respondents hold higher evaluations of the endorsed candidate on multiple dimensions of candidate quality. Our results suggest that chiefs influence voters through a cooperative mechanism, which has positive implications for accountability."
 
 # abstract_short = ""
 # Featured image thumbnail (optional)
