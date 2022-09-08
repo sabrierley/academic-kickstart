@@ -2,7 +2,7 @@
 title = "Gender, Corruption, and Bureaucracy: Experimental Evidence from Ghana"
 
 # Date first published.
-date = "2021-01-01"
+date = "2022-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Miguel Pereira"]
