@@ -1,5 +1,5 @@
 +++
-title = "Gender, Corruption, and Bureaucracy: Experimental Evidence from Ghana"
+title = "Women bureaucrats and petty corruption. Experimental evidence from Ghana"
 
 # Date first published.
 date = "2022-02-01"
