@@ -2,7 +2,7 @@
 title = "Bureaucratic Politics: Blind Spots and Opportunities in Political Science"
 
 # Date first published.
-date = "2023-03-10"
+date = "2023-03-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Kenny Lowande", "Rachel Augustine Potter", "Guillermo Toral"]
