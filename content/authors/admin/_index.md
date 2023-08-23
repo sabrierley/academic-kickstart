@@ -71,11 +71,11 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor of Political Science at the London School of Economics and Political Science. 
+I am an Assistant Professor in the Department of Government at the London School of Economics and Political Science. 
 
-I work in the field of comparative politics, with a regional focus on Sub-Saharan Africa.  My research investigates state development, political corruption, and parties and campaigns in new democracies. In my book project, I ask why bureaucrats engage in corruption on behalf of politicians. I argue that public servants do so when politicians retain discretionary control over their careers. Methodologically, I combine data from surveys and experiments, with analysis of administrative data, and qualitative information from in-depth interviews. 
+I work in comparative politics, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and parties and campaigns in new democracies. In my book project, I investigate politicians' decisions to invest in state development and their strategies to enhance bureaucratic competence while retaining loyalty. Methodologically, I adopt a mixed-methods approach, combining data from surveys and experiments with analysis of administrative data and qualitative information from in-depth interviews. 
 
-In other ongoing projects, I investigate the influence of traditional leaders during elections, the role of party brokers, and public attitudes towards petty corruption. 
+In other ongoing projects, I investigate the influence of traditional leaders during elections, the role of party brokers, and public attitudes toward anti-corruption pledges and reforms. 
 
-My research has been published in the _Journal of Politics_, _American Journal of Political Science_, _British Journal of Political Science_, _Electoral Studies_, _African Affairs_, and the _Journal of Contemporary African Studies_. 
+My research has been published or is forthcoming in the _American Journal of Political Science_, _Journal of Politics_, _Annual Review of Political Science_, _Comparative Political Studies_, _British Journal of Political Science among other outlets. 
  
