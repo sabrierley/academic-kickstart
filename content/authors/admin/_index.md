@@ -77,5 +77,5 @@ I work in comparative politics, with a regional focus on Sub-Saharan Africa.  My
 
 In other ongoing projects, I investigate the influence of traditional leaders during elections, the role of party brokers, and public attitudes toward anti-corruption pledges and reforms. 
 
-My research has been published or is forthcoming in the _American Journal of Political Science_, _Journal of Politics_, _Annual Review of Political Science_, _Comparative Political Studies_, _British Journal of Political Science among other outlets. 
+My research has been published or is forthcoming in the _American Journal of Political Science_, _Journal of Politics_, _Annual Review of Political Science_, _Comparative Political Studies_, _British Journal of Political Science_, among other outlets. 
  
