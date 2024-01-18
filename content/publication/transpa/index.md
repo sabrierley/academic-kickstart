@@ -5,7 +5,7 @@ title = "Does increasing transparency in political party funding increase voters
 date = "2023-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sarah Brierley" and "Dan de Kadt]
+authors = ["Sarah Brierley" and "Dan de Kadt"]
 
 # Publication type.
 # Legend:
