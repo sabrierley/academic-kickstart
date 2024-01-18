@@ -19,11 +19,11 @@ authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "**"
-publication_short = "**"
+publication = "*Data analysis*"
+publication_short = "*Data analysis*"
 
 # Abstract and optional shortened version.
-abstract = ""
+# abstract = ""
 # abstract_short = ""
 
 # Featured image thumbnail (optional)
