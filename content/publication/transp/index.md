@@ -23,8 +23,7 @@ publication = "*Fieldwork stage*"
 publication_short = "*Fieldwork stage*"
 
 # Abstract and optional shortened version.
-abstract = ""
-
+# abstract = ""
 # abstract_short = ""
 
 # Featured image thumbnail (optional)
