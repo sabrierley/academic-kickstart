@@ -23,7 +23,7 @@ publication = "*Fieldwork stage*"
 publication_short = "*Fieldwork stage*"
 
 # Abstract and optional shortened version.
-# abstract = ""
+ abstract = "XX"
 # abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -64,3 +64,5 @@ highlight = true
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
+
++++
