@@ -1,5 +1,5 @@
 +++
-title = "The Co-opted State: Development, Corruption and Bureaucrats in Ghana"
+title = "The Co-opted State: How Politicians Control Bureaucrats’ Careers to Undermine Development"
 
 # Date first published.
 date = "2023-04-01"
