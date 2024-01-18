@@ -2,7 +2,7 @@
 title = "Inside the Colonial Bureaucracy"
 
 # Date first published.
-date = "2023-03-03"
+date = "2023-03-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"]
@@ -23,7 +23,7 @@ publication = "*Data analysis*"
 publication_short = "*Data analysis*"
 
 # Abstract and optional shortened version.
-# abstract = ""
+abstract = "XX"
 # abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -64,3 +64,4 @@ highlight = true
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
++++
