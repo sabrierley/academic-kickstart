@@ -2,7 +2,7 @@
 title = "Inside the Colonial Bureaucracy"
 
 # Date first published.
-date = "2023-03-04"
+date = "2023-03-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"]
