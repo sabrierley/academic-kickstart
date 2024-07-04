@@ -73,7 +73,7 @@ user_groups:
 
 I am an Assistant Professor in the Department of Government at the London School of Economics and Political Science. 
 
-I work in comparative politics, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and parties and campaigns in new democracies. In my book project, I investigate politicians' decisions to invest in state development and their strategies to enhance bureaucratic competence while retaining loyalty. Methodologically, I adopt a mixed-methods approach, combining data from surveys and experiments with analysis of administrative data and qualitative information from in-depth interviews. 
+My research lies in the fields of comparative politics and the political economy of development, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and parties and campaigns in new democracies. In my book project, I investigate politicians' decisions to invest in state development and their strategies to enhance bureaucratic competence while retaining loyalty. Methodologically, I adopt a mixed-methods approach, combining data from surveys and experiments with analysis of administrative data and qualitative information from in-depth interviews. 
 
 In other ongoing projects, I investigate the influence of traditional leaders during elections, the role of party brokers, and public attitudes toward anti-corruption pledges and reforms. 
 
