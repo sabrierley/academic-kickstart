@@ -1,5 +1,5 @@
 +++
-title = "The Co-opted State: How Politicians Control Bureaucrats’ Careers to Undermine Development"
+title = "Co-opting the State: How Politicians' Control Over Bureaucrats' Careers Can Undermine Good Governance"
 
 # Date first published.
 date = "2023-04-01"
