@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor in the Department of Government at the London School of Economics and Political Science. 
+I am an Associate Professor in the Department of Government at the London School of Economics and Political Science. 
 
 I study comparative politics and the political economy of development, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and parties and campaigns in young democracies. In my book project, I investigate politicians' decisions to professionalize the state and their strategies to enhance bureaucratic competence while retaining loyalty. Methodologically, I adopt a mixed-methods approach, combining data from surveys and experiments with analysis of administrative data and qualitative information from in-depth interviews. 
 
