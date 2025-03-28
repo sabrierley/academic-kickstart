@@ -1,5 +1,5 @@
 +++
-title = "Reaching Across the Aisle to Fight Corruption: Cross-Party Anti-Corruption Platforms and Political Engagement."
+title = "Reaching Across the Aisle to Fight Corruption: Cross-Party Anti-Corruption Platforms and Political Engagement"
 
 # Date first published.
 date = "2025-03-03"
