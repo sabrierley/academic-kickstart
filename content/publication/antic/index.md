@@ -2,7 +2,7 @@
 title = "Reaching Across the Aisle to Fight Corruption: Cross-Party Anti-Corruption Platforms and Political Engagement."
 
 # Date first published.
-date = "2023-03-03"
+date = "2025-03-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Mathias Poertner"]
