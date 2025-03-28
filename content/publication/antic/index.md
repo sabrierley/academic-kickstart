@@ -1,5 +1,5 @@
 +++
-title = "Cross-Party Anti-corruption Platforms and Voter Attitudes"
+title = "Reaching Across the Aisle to Fight Corruption: Cross-Party Anti-Corruption Platforms and Political Engagement."
 
 # Date first published.
 date = "2023-03-03"
@@ -19,8 +19,8 @@ authors = ["Sarah Brierley", "Mathias Poertner"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Fieldwork stage*"
-publication_short = "*Fieldwork stage*"
+publication = "*Working Paper*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "Combating corruption remains a central problem for many governments. Disillusionment with corrupt officials can lead voters to turn their backs on democracy and lure them toward supporting authoritarianism. In collaboration with two major political parties in North Macedonia, we conduct a field experiment that exposes citizens to parties’ anti-corruption agendas. We explore whether cross-party anti-corruption platforms have stronger effects on citizens’ beliefs that politicians are committed to fighting corruption than messages from a single party. We also examine whether cross-party messages have stronger effects than single-party messages on enhancing citizens’ satisfaction with and support for democracy. Our results imply that opposition parties should be brought into anti-corruption initiatives alongside ruling parties to decrease corruption and sustain voters’ support for democratic rule."
