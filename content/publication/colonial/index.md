@@ -1,8 +1,8 @@
 +++
-title = "Inside the Colonial Bureaucracy"
+title = "Bureaucratic Hiring under Colonial Rule"
 
 # Date first published.
-date = "2023-03-02"
+date = "2024-03-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"]
@@ -19,8 +19,8 @@ authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Data analysis*"
-publication_short = "*Data analysis*"
+publication = "*Working Paper*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "XX"
