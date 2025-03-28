@@ -2,7 +2,7 @@
 title = "The Co-opted State: How Politicians' Control Over Bureaucrats' Careers Threatens Governance"
 
 # Date first published.
-date = "2025-04-01"
+date = "2025-03-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley"]
