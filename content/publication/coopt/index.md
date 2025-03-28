@@ -1,8 +1,8 @@
 +++
-title = "Co-opting the State: How Politicians' Control Over Bureaucrats' Careers Can Undermine Good Governance"
+title = "The Co-opted State: How Politicians' Control Over Bureaucrats' Careers Threatens Governance"
 
 # Date first published.
-date = "2023-04-01"
+date = "2025-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley"]
@@ -19,8 +19,8 @@ authors = ["Sarah Brierley"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Book manuscript in progress*"
-publication_short = "*Book manuscript in progress*"
+publication = "*Forthcoming with Cambridge University Press*"
+publication_short = "*Forthcoming with Cambridge University Press*"
 
 # Abstract and optional shortened version.
 # abstract = ""
