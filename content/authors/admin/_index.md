@@ -75,7 +75,7 @@ I am an Associate Professor in the Department of Government at the London School
 
 I study comparative politics and the political economy of development, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and political parties and campaigns. I am particularly interested in understanding how the campaign strategies that political candidates adopt influences the functioning of the state. 
 
-My first book manuscript - The Co-opted State (forthcoming with Cambridge University Press, Political Economy of Institutions and Decisions series) - investigates politicians' decisions to professionalize the state and strategies they adopt to enhance bureaucratic competence while retaining loyalty. Methodologically, I combine data from surveys and experiments with bureaucrats, with analysis of administrative data and qualitative information from in-depth interviews in Ghana.
+My first book manuscript - *The Co-opted State* (forthcoming with Cambridge University Press, Political Economy of Institutions and Decisions series) - investigates politicians' decisions to professionalize the state and strategies they adopt to enhance bureaucratic competence while retaining loyalty. Methodologically, I combine data from surveys and experiments with bureaucrats, with analysis of administrative data and qualitative information from in-depth interviews in Ghana.
 
 I am currently a UKRI Future Leaders Fellow, conducting a project entitled "Political Finance in Africa". This project investigates political finance legislation on the continent, and seeks to understand how pressures for reform build among political elites, and the impacts of reforms once adopted. 
 
