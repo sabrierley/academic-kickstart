@@ -46,9 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:s.brierley@lse.ac.uk".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Sarah_Brierley1
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=irUKh8kAAAAJ&hl
