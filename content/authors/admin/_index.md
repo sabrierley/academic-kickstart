@@ -73,13 +73,13 @@ user_groups:
 
 I am an Associate Professor in the Department of Government at the London School of Economics and Political Science. 
 
-I study comparative politics and the political economy of development, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and political parties and campaigns. I am particularly interested in understanding how the campaign strategies that political candidates adopt influences the functioning of the state. 
+I study comparative politics and the political economy of development, with a regional focus on Sub-Saharan Africa.  My research investigates state development, governance, corruption, and political parties and campaigns. I am particularly interested in understanding how political candidates' campaign strategies influence the functioning of the state. 
 
 My first book - *The Co-opted State* (Cambridge University Press, Political Economy of Institutions and Decisions series) - investigates politicians' decisions to professionalize the state and strategies they adopt to enhance bureaucratic competence while retaining loyalty. Methodologically, I combine data from surveys and experiments with bureaucrats, with analysis of administrative data and qualitative information from in-depth interviews in Ghana.
 
-I am currently a UKRI Future Leaders Fellow, conducting a project entitled "Political Finance in Africa". This project investigates political finance legislation on the continent, and seeks to understand how pressures for reform build among political elites, and the impacts of reforms once adopted. 
+I am currently a UKRI Future Leaders Fellow, conducting a project entitled "Political Finance in Africa". This project investigates political finance legislation on the continent and seeks to understand how pressures for reform build among political elites and the impacts of reforms once adopted. 
 
-In other ongoing projects, I investigate hiring into the colonial bureaucracy, and the impact of political parties' anti-corruption pledges and transparency reforms. 
+In other ongoing projects, I investigate hiring into the colonial bureaucracy, the impact of political parties' anti-corruption pledges, and transparency reforms. 
 
 My research has been published or forthcoming in the _American Journal of Political Science_, _American Political Science Review_, _Journal of Politics_, _Annual Review of Political Science_, _Comparative Political Studies_, _British Journal of Political Science_, among other outlets. 
  
