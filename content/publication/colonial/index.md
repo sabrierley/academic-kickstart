@@ -1,8 +1,8 @@
 +++
-title = "Bureaucratic Hiring under Colonial Rule"
+title = "The Seeds of State Capture: Merit and Patrimonialism in the Colonial Bureaucracy"
 
 # Date first published.
-date = "2024-03-02"
+date = "2026-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"]
@@ -16,11 +16,11 @@ authors = ["Sarah Brierley", "Noah Nathan", "George Kwaku Ofosu", "Tingxuan Zhu"
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Working Paper*"
-publication_short = "*Working Paper*"
+publication = "Conditionally accepted *American Political Science Review*"
+publication_short = "*American Political Science Review*"
 
 # Abstract and optional shortened version.
 abstract = "XX"
