@@ -1,8 +1,8 @@
 +++
-title = "Does increasing transparency in political party funding increase voters' trust? Evidence from South Africa"
+title = "Do voters want (and reward) stricter political finance regulation?\\ Evidence from South Africa"
 
 # Date first published.
-date = "2025-03-03"
+date = "2026-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Daniel de Kadt"]
@@ -19,8 +19,8 @@ authors = ["Sarah Brierley", "Daniel de Kadt"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Working Paper*"
-publication_short = "*Working Paper*"
+publication = "*Under Review*"
+publication_short = "*Under Review*"
 
 # Abstract and optional shortened version.
  abstract = "XX"
