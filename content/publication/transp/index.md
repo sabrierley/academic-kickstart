@@ -1,5 +1,5 @@
 +++
-title = "Do voters want (and reward) stricter political finance regulation?\\ Evidence from South Africa"
+title = "Do voters want (and reward) stricter political finance regulation? Evidence from South Africa"
 
 # Date first published.
 date = "2026-01-01"
