@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Conditionally accepted *American Political Science Review*"
-publication_short = "*American Political Science Review*"
+publication_short = "Conditionally accepted *American Political Science Review*"
 
 # Abstract and optional shortened version.
 abstract = "XX"
