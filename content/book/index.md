@@ -1,16 +1,14 @@
 ---
-title: "Book"
+title: "The Co-opted State: How Politicians' Control Over Bureaucrats' Careers Threatens Governance"
 date: 2026-06-30
 type: "page"
 ---
 
-# The Co-opted State
-
-
-
 ## Overview
 
+Politicians in young democracies face a dilemma when it comes to investing in state capacity. On the one hand, investments in bureaucratic competence can aid policy implementation. On the other hand, such investments can reduce bureaucratic loyalty, thereby undermining politicians' ability to secure votes through targeted distribution. In The Co-opted State, I argue that to resolve this dilemma, politicians will recruit bureaucrats through procedures that reward merit but retain tools to control bureaucrats' career progression. 
 
+The electronic version of this book is available as Open Access on Cambridge Core. I thank the LSE Open Access Books Fund for covering the costs to make the book open access. 
 
 ## Publisher
 
