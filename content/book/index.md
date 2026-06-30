@@ -13,7 +13,7 @@ type: "page"
 
 Politicians in young democracies face a dilemma when it comes to investing in state capacity. On the one hand, investments in bureaucratic competence can aid policy implementation. On the other hand, such investments can reduce bureaucratic loyalty, thereby undermining politicians' ability to secure votes through targeted distribution. In The Co-opted State, I argue that to resolve this dilemma, politicians will recruit bureaucrats through procedures that reward merit but retain tools to control bureaucrats' career progression. 
 
-The electronic version of this book is available as Open Access on Cambridge Core. I thank the LSE Open Access Books Fund for covering the costs to make the book open access. 
+The electronic version of this book is freely available on the CUP website thanks to generous funding from the LSE Open Access Books Fund. 
 
 ## Publisher
 
@@ -36,4 +36,4 @@ Cambridge University Press
 
 'This book shows that hiring competent bureaucrats does not ensure effective government service delivery. Instead, through careful theorizing and rich qualitative and quantitative analyses, Brierley demonstrates that politicians' motivations and opportunities to control bureaucrats' careers shape whether governments deliver much-needed goods or divert and misuse resources. A must-read for scholars of distributive politics, governance, and state capacity in the Global South.' Rebecca Weitz-Shapiro, Associate Professor of Political Science, Brown University
 
-'Brilliantly framed around the sub-disciplines of political economy and public administration, and drawing on her deep knowledge of Ghanaian politics, Dr. Brierley's book highlights the pernicious effects of the commonplace failure to adequately insulate the public bureaucracy from partisan political control. It draws needed attention to a key gap in many African nations' governance architecture, and an often-neglected lesson from the rich literature on the East and Southeast Asian 'developmental state.'' E. Gyimah-Boadi, Professoer and Afrobarometer co-founder
+'Brilliantly framed around the sub-disciplines of political economy and public administration, and drawing on her deep knowledge of Ghanaian politics, Dr. Brierley's book highlights the pernicious effects of the commonplace failure to adequately insulate the public bureaucracy from partisan political control. It draws needed attention to a key gap in many African nations' governance architecture, and an often-neglected lesson from the rich literature on the East and Southeast Asian 'developmental state.'' E. Gyimah-Boadi, Professor and Afrobarometer co-founder
