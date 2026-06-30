@@ -10,8 +10,8 @@
 
    [[main]]
   name = "Book"
-  url = "#book"
-  weight = 20 
+  url = "/book/"
+  weight = 20
   
   [[main]]
   name = "Articles"
