@@ -4,6 +4,11 @@ date: 2026-06-30
 type: "page"
 ---
 
+<div style="display:flex; gap:2rem; align-items:flex-start;">
+  <img src="cover.jpg" alt="Book cover" width="250">
+
+  <div>
+
 ## Overview
 
 Politicians in young democracies face a dilemma when it comes to investing in state capacity. On the one hand, investments in bureaucratic competence can aid policy implementation. On the other hand, such investments can reduce bureaucratic loyalty, thereby undermining politicians' ability to secure votes through targeted distribution. In The Co-opted State, I argue that to resolve this dilemma, politicians will recruit bureaucrats through procedures that reward merit but retain tools to control bureaucrats' career progression. 
@@ -19,6 +24,9 @@ Cambridge University Press
 - [CUP](https://www.cambridge.org/core/books/coopted-state/B0F9316D16E1B4C51B45520D7148D132)
 - [Amazon](https://www.amazon.co.uk/Co-opted-State-Politicians-Bureaucrats-Institutions/dp/1009757245)
 - [Waterstones (UK)](https://www.waterstones.com/book/the-co-opted-state/sarah-brierley/9781009757249)
+
+  </div>
+</div>
 
 ## Reviews
 
