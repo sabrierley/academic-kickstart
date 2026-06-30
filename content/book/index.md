@@ -4,9 +4,9 @@ date: 2026-06-30
 type: "page"
 ---
 
-# My New Book
+# The Co-opted State
 
-The Co-opted State
+
 
 ## Overview
 
