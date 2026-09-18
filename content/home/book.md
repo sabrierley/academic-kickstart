@@ -24,7 +24,7 @@ css_class = ""
   <a href="/book/">
     <img src="/book/cover.jpg"
          alt="The Co-opted State"
-         style="max-width: 250px; margin-left: 45px; margin-top: 25px; display: block;">
+         style="max-width: 250px; margin-left: 45px; margin-top: 15px; display: block;">
   </a>
 </div>
   <div class="col-12 col-md-8">
