@@ -44,7 +44,7 @@ css_class = ""
   </p>
 
   <p> 
-    <strong>Cambridge University Press</strong> 
+    Cambridge University Press, Political Economy of Institutions and Decisions series.
   </p>
 
   <p> 
