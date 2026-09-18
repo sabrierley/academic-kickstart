@@ -20,13 +20,13 @@ css_class = ""
 +++
 
 <div class="row"> 
-  <div class="col-12 col-md-4" style="padding-left: 45px;">
-    <a href="/book/"> 
-      <img src="/book/cover.jpg" 
-        alt="The Co-opted State" 
-     style="max-width: 250px; margin-top: 0;">
-    </a> 
-  </div> 
+ <div class="col-12 col-md-4">
+  <a href="/book/">
+    <img src="/book/cover.jpg"
+         alt="The Co-opted State"
+         style="max-width: 250px; margin-left: 45px; margin-top: 35px; display: block;">
+  </a>
+</div>
   <div class="col-12 col-md-8">
 
 <h2 style="margin-top: 0;"><em>The Co-opted State</em></h2>  
