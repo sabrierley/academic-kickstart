@@ -20,7 +20,7 @@ css_class = ""
 +++
 
 <div class="row"> 
-  <div class="col-12 col-md-4" style="padding-left: 35px;">
+  <div class="col-12 col-md-4" style="padding-left: 45px;">
     <a href="/book/"> 
       <img src="/book/cover.jpg" 
         alt="The Co-opted State" 
