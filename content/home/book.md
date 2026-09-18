@@ -20,17 +20,17 @@ css_class = ""
 +++
 
 <div class="row"> 
-  <div class="col-12 col-md-4"> 
+  <div class="col-12 col-md-4" style="padding-left: 25px;">
     <a href="/book/"> 
       <img src="/book/cover.jpg" 
         alt="The Co-opted State" 
-        style="max-width: 250px;"> 
+     style="max-width: 250px; margin-top: 0;">
     </a> 
   </div> 
   <div class="col-12 col-md-8">
 
-  <h2><em>The Co-opted State</em></h2> 
-  
+<h2 style="margin-top: 0;"><em>The Co-opted State</em></h2>  
+
   <p> 
     <em>How Politicians' Control Over Bureaucrats' Careers Threatens Governance</em> 
   </p>
