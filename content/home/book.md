@@ -19,14 +19,15 @@ css_style = ""
 css_class = "" 
 +++
 
-<div style="display:flex; gap:2rem; align-items:flex-start;"> 
-  <div style="flex:0 0 250px;"> 
+<div class="row"> 
+  <div class="col-12 col-md-4"> 
     <a href="/book/"> 
-      <img src="/book/cover.jpg" alt="The Co-opted State book cover" 
-        style="width:250px;"> </a> 
+      <img src="/book/cover.jpg" 
+        alt="The Co-opted State" 
+        style="max-width: 250px;"> 
+    </a> 
   </div> 
-  
-  <div>
+  <div class="col-12 col-md-8">
 
   <h2><em>The Co-opted State</em></h2> 
   
