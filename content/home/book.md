@@ -5,7 +5,7 @@
 widget = "blank" 
 headless = true 
 active = true 
-weight = 25
+weight = 20
 
 title = "Book" 
 subtitle = ""
